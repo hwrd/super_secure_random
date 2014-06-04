@@ -1,3 +1,5 @@
+![](https://travis-ci.org/hwrd/super_secure_random.svg)
+
 # SuperSecureRandom
 
 This is the most secure random number generator.
